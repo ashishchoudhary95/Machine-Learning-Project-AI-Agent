@@ -5,29 +5,29 @@ Designed for real-world business applications, the agent supports scalable, stat
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
-* 📚 **RAG-Based Knowledge Retrieval**
+*  **RAG-Based Knowledge Retrieval**
   Uses a vector database to fetch relevant information and generate accurate responses.
 
-* 💬 **Conversational AI Agent**
+*  **Conversational AI Agent**
   Engages users in natural, human-like conversations.
 
-* 🎯 **Intent Detection**
+*  **Intent Detection**
   Identifies user goals such as product inquiry, support request, or lead generation.
 
-* 🧾 **Lead Capture System**
+* **Lead Capture System**
   Extracts and stores user details like name and email for follow-ups.
 
-* 🔄 **Stateful Conversations**
+*  **Stateful Conversations**
   Maintains conversation context for better interaction flow.
 
-* ⚡ **Scalable Design**
+*  **Scalable Design**
   Built to handle real-world business use cases.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 The system follows a RAG-based pipeline:
 
@@ -40,7 +40,7 @@ The system follows a RAG-based pipeline:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * Language: Python
 * LLM: OpenAI GPT / Llama 3 / Mistral
@@ -49,7 +49,7 @@ The system follows a RAG-based pipeline:
 
 ---
 
-## 🧩 Core Functionalities
+##  Core Functionalities
 
 * Knowledge retrieval using embeddings
 * Context-aware response generation
@@ -59,7 +59,7 @@ The system follows a RAG-based pipeline:
 
 ---
 
-## ▶️ How It Works
+##  How It Works
 
 1. User sends a query
 2. System identifies intent
@@ -69,7 +69,7 @@ The system follows a RAG-based pipeline:
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 * AI Sales Assistant
 * Customer Support Automation
@@ -78,15 +78,11 @@ The system follows a RAG-based pipeline:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * CRM integration
 * Voice-based interaction
 * Advanced analytics dashboard
 * Multi-agent architecture
 
----
 
-## 👨‍💻 Author
-
-Ashish Choudhary
